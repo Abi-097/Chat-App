@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=2Zv8YYq1ymo&ab_channel=CodeWithPhuc
+https://github.com/phuc-mai/halochat
+
+packages:
+npm i @emotion/react @emotion/styled @mui/icons-material bcryptjs mongoose pusher pusher-js next-cloudinary react-hook-form react-hot-toast next-auth
+ 
+
+
