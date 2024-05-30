@@ -6,3 +6,15 @@ npm i @emotion/react @emotion/styled @mui/icons-material bcryptjs mongoose pushe
  
 
 
+created the form ui for register and login.
+
+then need to auth: 
+create a models -> user.js
+
+DB connecteion
+create mongodb -> index.js
+
+4S1huIGc8ljMMEFz
+
+
+
