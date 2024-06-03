@@ -16,5 +16,17 @@ create mongodb -> index.js
 
 4S1huIGc8ljMMEFz
 
+then intall  react-hook-form (this used for validation).
+then add the created api for this and validate them.
 
 
+next auth:
+configuration -> installation  = Route Handlers
+providers -> credencials 
+
+inside the route.js (...nextauth):
+need to create providers (because we are manullay create fields to login and register)
+
+then need to create Providers. need to import the providers inside the bioth layout.js
+
+callback: user details: to call to the chats page.
