@@ -30,3 +30,12 @@ need to create providers (because we are manullay create fields to login and reg
 then need to create Providers. need to import the providers inside the bioth layout.js
 
 callback: user details: to call to the chats page.
+
+created edit user page.
+
+installed cloudinary to store the images.
+
+after confiuring the cloodinary need to store the image and before that added a line in the next.config.mjs file inside the nextconfig,
+ images: {
+    domains: ["res.cloudinary.com"],
+  },
